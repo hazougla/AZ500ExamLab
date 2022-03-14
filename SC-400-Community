@@ -23,9 +23,9 @@ The information may include project code names, formulas, and location names. Th
 You are creating a custom sensitive info type.
 Which type of primary element should you use?
 Select only one answer.
-[X] Keyword Dictionary 
- Keyword List 
- Regular Expression
+[X]**Keyword Dictionary**
+[] Keyword List 
+[] Regular Expression
 
 You have two sensitivity labels.
 You need to publish the labels to:
