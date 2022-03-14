@@ -23,7 +23,7 @@ The information may include project code names, formulas, and location names. Th
 You are creating a custom sensitive info type.
 Which type of primary element should you use?
 Select only one answer.
- Keyword Dictionary 
+[X] Keyword Dictionary 
  Keyword List 
  Regular Expression
 
@@ -34,9 +34,9 @@ You need to publish the labels to:
 •	two Microsoft 365 groups
 What is the minimum number of sensitivity label policies you should create?
 Select only one answer.
- 1 
- 2 
- 3
+ []1 
+ [X]2 
+ []3
 
 You need to set the default privacy level for a SharePoint site to Private.
 Which should you use?
