@@ -54,8 +54,7 @@ The default label is General.
 You are concerned users are not classifying the documents and are just accepting the defaults.
 How should you change the policy configuration?
 Select only one answer.
-[] Set default Label to None.Select Require users to apply a label to their emails and documents. Set default Label to Top Secret. 
-[] Select Require users to provide justification to remove label or lower classification label. 
+[] Set default Label to None.
 [] Select Require users to provide justification to remove label or lower classification label. 
 [] Select Require users to apply a label to their emails and documents.
 
