@@ -41,9 +41,9 @@ Select only one answer.
 You need to set the default privacy level for a SharePoint site to Private.
 Which should you use?
 Select only one answer.
- a sensitivity label 
- a retention policy 
- a DLP policy
+ []a sensitivity label 
+ []a retention policy 
+ []a DLP policy
 
 You have a sensitivity label policy published to all users.
 The policy includes the following labels:
@@ -54,10 +54,10 @@ The default label is General.
 You are concerned users are not classifying the documents and are just accepting the defaults.
 How should you change the policy configuration?
 Select only one answer.
- Set default Label to None.Select Require users to apply a label to their emails and documents. Set default Label to Top Secret. 
- Select Require users to provide justification to remove label or lower classification label. 
- Select Require users to provide justification to remove label or lower classification label. 
- Select Require users to apply a label to their emails and documents.
+[] Set default Label to None.Select Require users to apply a label to their emails and documents. Set default Label to Top Secret. 
+[] Select Require users to provide justification to remove label or lower classification label. 
+[] Select Require users to provide justification to remove label or lower classification label. 
+[] Select Require users to apply a label to their emails and documents.
 
 You have a SharePoint site that contains Microsoft Word documents.
 You need to apply a sensitivity label to documents that contain credit card numbers that are shared with people outside your organization.
