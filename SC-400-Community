@@ -54,7 +54,8 @@ The default label is General.
 You are concerned users are not classifying the documents and are just accepting the defaults.
 How should you change the policy configuration?
 Select only one answer.
-[] Set default Label to None.
+[] Set default Label to None.Select Require users to apply a label to their emails and documents.
+[] Set default Label to Top Secret. Select Require users to provide justification to remove label or lower classification label. 
 [] Select Require users to provide justification to remove label or lower classification label. 
 [X] Select Require users to apply a label to their emails and documents.
 
@@ -91,9 +92,9 @@ You want to set the site to the most restrictive sharing setting.
 How should you configure Site1?
 Select only one answer.
  Users can share new and existing content to anyone. 
- Users can share new content to anyone. 
- Existing content can only be shared to people in the organization.Users can share new content only to people in the organization. 
- Existing content can be shared anyone. Users can share new and existing content only to people in the organization.
+ Users can share new content to anyone. Existing content can only be shared to people in the organization.
+ Users can share new content only to people in the organization. Existing content can be shared anyone. 
+ Users can share new and existing content only to people in the organization.
 
 You have an Office 365 message encryption branding template that is applied by using an Exchange mail flow rule.
 You need to ensure that encrypted emails sent to external recipients expire after 7 days.
