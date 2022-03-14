@@ -41,7 +41,7 @@ Select only one answer.
 You need to set the default privacy level for a SharePoint site to Private.
 Which should you use?
 Select only one answer.
- []a sensitivity label 
+ [X]a sensitivity label 
  []a retention policy 
  []a DLP policy
 
@@ -56,16 +56,16 @@ How should you change the policy configuration?
 Select only one answer.
 [] Set default Label to None.
 [] Select Require users to provide justification to remove label or lower classification label. 
-[] Select Require users to apply a label to their emails and documents.
+[X] Select Require users to apply a label to their emails and documents.
 
 You have a SharePoint site that contains Microsoft Word documents.
 You need to apply a sensitivity label to documents that contain credit card numbers that are shared with people outside your organization.
 Which type of policy should you configure?
 Select only one answer.
- a sensitivity label policy 
- an auto-labeling sensitive label policy 
- a retention policy 
- a DLP policy
+[] a sensitivity label policy 
+[] an auto-labeling sensitive label policy 
+[] a retention policy 
+[] a DLP policy
 
 You plan to use Label analytics.
 What is a prerequisite for Label analytics?
@@ -80,9 +80,9 @@ You have a SharePoint site that has the default privacy level set to Public by u
 You need to change the privacy level of the site to Private without affecting other sites that have the sensitivity label applied.
 What should you do?
 Select only one answer.
- Update the current sensitivity label and set the privacy as Private. 
- Change the Privacy setting in the SharePoint site information. 
- Remove the sensitivity label from the site.
+[] Update the current sensitivity label and set the privacy as Private. 
+[] Change the Privacy setting in the SharePoint site information. 
+[] Remove the sensitivity label from the site.
 
 
 You have a SharePoint site that has external sharing set to "Only people of organization".
@@ -90,7 +90,10 @@ You update the site information and apply a sensitivity label to the site. The s
 You want to set the site to the most restrictive sharing setting.
 How should you configure Site1?
 Select only one answer.
- Users can share new and existing content to anyone. Users can share new content to anyone. Existing content can only be shared to people in the organization. Users can share new content only to people in the organization. Existing content can be shared anyone. Users can share new and existing content only to people in the organization.
+ Users can share new and existing content to anyone. 
+ Users can share new content to anyone. 
+ Existing content can only be shared to people in the organization.Users can share new content only to people in the organization. 
+ Existing content can be shared anyone. Users can share new and existing content only to people in the organization.
 
 You have an Office 365 message encryption branding template that is applied by using an Exchange mail flow rule.
 You need to ensure that encrypted emails sent to external recipients expire after 7 days.
