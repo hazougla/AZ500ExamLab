@@ -70,15 +70,11 @@ Select only one answer.
 You plan to use Label analytics.
 What is a prerequisite for Label analytics?
 Select only one answer.
- an Azure Log Analytics workspace an Azure Cosmos DB account an Azure SQL database an Azure Storage account
+[X]**an Azure Log Analytics workspace**
+[]an Azure Cosmos DB account 
+[]an Azure SQL database 
+[]an Azure Storage account
 
-You plan to use Label analytics.
-What is a prerequisite for Label analytics?
-Select only one answer.
- an Azure Log Analytics workspace 
- an Azure Cosmos DB account 
- an Azure SQL database 
- an Azure Storage account
 
 You have a SharePoint site that has the default privacy level set to Public by using a sensitivity label.
 You need to change the privacy level of the site to Private without affecting other sites that have the sensitivity label applied.
@@ -108,10 +104,10 @@ Select only one answer.
 You need to verify if Azure RMS is enabled for a Microsoft 365 tenant.
 Which cmdlet should you run?
 Select only one answer.
- Get-OMEConfiguration 
- Get-IRMConfiguration 
- Get-RMSTrustedPublishingDomain 
- Get-DataEncryptionPolicy
+[] Get-OMEConfiguration 
+[X]**Get-IRMConfiguration**
+[] Get-RMSTrustedPublishingDomain 
+[] Get-DataEncryptionPolicy
 
 You are implementing a new DLP policy.
 Which DLP Policy statuses will allow users to report False Positives?
@@ -228,10 +224,10 @@ You are configuring an auto-labeling retention label policy for a SharePoint sit
 You need to write a query for the condition logic.
 Which query language should you use?
 Select only one answer.
- Keyword Query Language (KQL) 
- Transact-SQL (T-SQL) 
- Data Analysis Expressions (DAX) 
- Regular Expression (RegEx)
+[X]**Keyword Query Language (KQL)**
+[] Transact-SQL (T-SQL) 
+[] Data Analysis Expressions (DAX) 
+[] Regular Expression (RegEx)
 
 You need to retain messages in Teams chats that include messages from guest accounts. The solution must minimize the retained information.
 Which scope should you set in the retention policy?
