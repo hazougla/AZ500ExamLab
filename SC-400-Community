@@ -94,7 +94,7 @@ Select only one answer.
 [] Users can share new and existing content to anyone. 
 [] Users can share new content to anyone. Existing content can only be shared to people in the organization.
 [] Users can share new content only to people in the organization. Existing content can be shared anyone. 
-[] Users can share new and existing content only to people in the organization.
+[X] Users can share new and existing content only to people in the organization.
 
 You have an Office 365 message encryption branding template that is applied by using an Exchange mail flow rule.
 You need to ensure that encrypted emails sent to external recipients expire after 7 days.
@@ -103,7 +103,7 @@ Select only one answer.
 [] Use the Set-OMEConfiguration cmdlet. 
 [] Create a retention policy. 
 [] Use the Set-TransportRule cmdlet. 
-[] Create a data encryption policy.
+[X] Create a data encryption policy.
 
 You need to verify if Azure RMS is enabled for a Microsoft 365 tenant.
 Which cmdlet should you run?
