@@ -117,7 +117,7 @@ You are implementing a new DLP policy.
 Which DLP Policy statuses will allow users to report False Positives?
 Select only one answer.
 [] Test with notifications, and Test without notifications only 
-[] On, and Test with notifications only 
+[X] On, and Test with notifications only 
 [] On only 
 [] On, Test with notifications, and Test without notifications
 
