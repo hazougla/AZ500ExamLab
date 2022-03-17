@@ -124,10 +124,10 @@ Select only one answer.
 You are implementing DLP.
 To which of the following services can you apply a DLP policy?
 Select only one answer.
- SharePoint, Azure SQL Database, Skype for Business 
- SharePoint and Azure SQL Database Only 
- SharePoint, and Skype for Business Only 
- SharePoint Only
+[] SharePoint, Azure SQL Database, Skype for Business 
+[] SharePoint and Azure SQL Database Only 
+[] SharePoint, and Skype for Business Only 
+[] SharePoint Only
 
 You have a DLP policy that is applied to Exchange email.
 You need to provide a user the ability to send content that the DLP policy restricts if the user indicates that the policy match is a false positive.
