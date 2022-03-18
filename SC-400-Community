@@ -126,7 +126,7 @@ To which of the following services can you apply a DLP policy?
 Select only one answer.
 [] SharePoint, Azure SQL Database, Skype for Business 
 [] SharePoint and Azure SQL Database Only 
-[] SharePoint, and Skype for Business Only 
+[X] SharePoint, and Skype for Business Only 
 [] SharePoint Only
 
 You have a DLP policy that is applied to Exchange email.
