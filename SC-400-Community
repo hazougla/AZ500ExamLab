@@ -57,7 +57,7 @@ Select only one answer.
 [] Set default Label to None.Select Require users to apply a label to their emails and documents.
 [] Set default Label to Top Secret. Select Require users to provide justification to remove label or lower classification label. 
 [] Select Require users to provide justification to remove label or lower classification label. 
-[X] Select Require users to apply a label to their emails and documents.
+[X]**Select Require users to apply a label to their emails and documents.**
 
 You have a SharePoint site that contains Microsoft Word documents.
 You need to apply a sensitivity label to documents that contain credit card numbers that are shared with people outside your organization.
@@ -94,7 +94,7 @@ Select only one answer.
 [] Users can share new and existing content to anyone. 
 [] Users can share new content to anyone. Existing content can only be shared to people in the organization.
 [] Users can share new content only to people in the organization. Existing content can be shared anyone. 
-[X] Users can share new and existing content only to people in the organization.
+[X]**Users can share new and existing content only to people in the organization.**
 
 You have an Office 365 message encryption branding template that is applied by using an Exchange mail flow rule.
 You need to ensure that encrypted emails sent to external recipients expire after 7 days.
@@ -103,7 +103,7 @@ Select only one answer.
 [] Use the Set-OMEConfiguration cmdlet. 
 [] Create a retention policy. 
 [] Use the Set-TransportRule cmdlet. 
-[X] Create a data encryption policy.
+[X]**Create a data encryption policy.**
 
 You need to verify if Azure RMS is enabled for a Microsoft 365 tenant.
 Which cmdlet should you run?
@@ -117,7 +117,7 @@ You are implementing a new DLP policy.
 Which DLP Policy statuses will allow users to report False Positives?
 Select only one answer.
 [] Test with notifications, and Test without notifications only 
-[X] On, and Test with notifications only 
+[X]**On, and Test with notifications only** 
 [] On only 
 [] On, Test with notifications, and Test without notifications
 
@@ -126,14 +126,14 @@ To which of the following services can you apply a DLP policy?
 Select only one answer.
 [] SharePoint, Azure SQL Database, Skype for Business 
 [] SharePoint and Azure SQL Database Only 
-[X] SharePoint, and Skype for Business Only 
+[X]**SharePoint, and Skype for Business Only** 
 [] SharePoint Only
 
 You have a DLP policy that is applied to Exchange email.
 You need to provide a user the ability to send content that the DLP policy restricts if the user indicates that the policy match is a false positive.
 What should you configure in the DLP policy?
 Select only one answer.
-[X] User overrides 
+[X]**User overrides** 
 [] User notifications 
 [] Incident Reports 
 [] Actions
@@ -141,10 +141,10 @@ Select only one answer.
 You are configuring Endpoint DLP settings.
 What can you achieve by blocking specific service domains?
 Select only one answer.
- Prevent users from uploading protected content to specific web services. 
- Prevent users from accessing specific web services. 
- Prevent users from downloading content from specific web services. 
- Prevent users from sharing content to users from specific authentication realms.
+[] Prevent users from uploading protected content to specific web services. 
+[X]**Prevent users from accessing specific web services.** 
+[] Prevent users from downloading content from specific web services. 
+[] Prevent users from sharing content to users from specific authentication realms.
 
 You have the following DLP policies that each has one rule.
 Policy1:
@@ -162,10 +162,10 @@ Policy3:
 You need to ensure that if a document matches all the rules, "Tip 2" is shown.
 What should you do?
 Select only one answer.
- For Policy1, disable "If there's a match for this rule, stop processing additional DLP policies and rules". 
- For Policy2, set the priority to 0. 
- For Policy2, set the priority to 4. 
- For Policy2, enable "If there's a match for this rule, stop processing additional DLP policies and rules".
+[] For Policy1, disable "If there's a match for this rule, stop processing additional DLP policies and rules". 
+[] For Policy2, set the priority to 0. 
+[] For Policy2, set the priority to 4. 
+[] For Policy2, enable "If there's a match for this rule, stop processing additional DLP policies and rules".
 
 You are reviewing a DLP policy that is being tested.
 You create a document with test data that matches the rule of the DLP Policy.
