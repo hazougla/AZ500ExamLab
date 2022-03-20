@@ -163,7 +163,7 @@ You need to ensure that if a document matches all the rules, "Tip 2" is shown.
 What should you do?
 Select only one answer.
 [] For Policy1, disable "If there's a match for this rule, stop processing additional DLP policies and rules". 
-[] For Policy2, set the priority to 0. 
+[X] For Policy2, set the priority to 0. 
 [] For Policy2, set the priority to 4. 
 [] For Policy2, enable "If there's a match for this rule, stop processing additional DLP policies and rules".
 
@@ -172,9 +172,9 @@ You create a document with test data that matches the rule of the DLP Policy.
 You need to research the sensitive information confidence for the document.
 Which DLP report should you review?
 Select only one answer.
- DLP Policy Matches 
- DLP Incidents 
- DLP false positives and overrides
+[X]**DLP Policy Matches** 
+[] DLP Incidents 
+[] DLP false positives and overrides
 
 
 You have the following DLP policies that each has one rule:
