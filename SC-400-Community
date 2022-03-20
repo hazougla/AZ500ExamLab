@@ -133,10 +133,10 @@ You have a DLP policy that is applied to Exchange email.
 You need to provide a user the ability to send content that the DLP policy restricts if the user indicates that the policy match is a false positive.
 What should you configure in the DLP policy?
 Select only one answer.
- User overrides 
- User notifications 
- Incident Reports 
- Actions
+[X] User overrides 
+[] User notifications 
+[] Incident Reports 
+[] Actions
 
 You are configuring Endpoint DLP settings.
 What can you achieve by blocking specific service domains?
