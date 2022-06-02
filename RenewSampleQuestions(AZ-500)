@@ -305,3 +305,9 @@ Select Yes if the statement is true.Otherwise, select No.
 () Yes
 () No
 
+From Microsoft Sentinel, what type of data can you generate from a Schedule Query rule?
+Select only one answer.
+() Incidents and entities
+() Bookmarks and entities
+() Bookmarks and incidents
+() Comments and incidents
